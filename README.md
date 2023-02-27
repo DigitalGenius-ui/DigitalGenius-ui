@@ -1,3 +1,6 @@
+
+<img src="https://res.cloudinary.com/ghazni/image/upload/v1677466927/Software_Developer_1_iaizvr.png" alt="banner"/>
+
 <h1 align="center">Hi 👋, I'm Milad Amiri</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
