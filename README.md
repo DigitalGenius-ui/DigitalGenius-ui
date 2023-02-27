@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo14647
-Fork on GitHub3925
 <h1 align="center">Hi 👋, I'm Milad Amiri</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
