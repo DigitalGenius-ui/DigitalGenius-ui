@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://miladamiri.netlify.app/](https://miladamiri.netlify.app/)
+- 👨‍💻 All of my projects are available at [Milad Tech](https://miladamiri.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React JS**
 
