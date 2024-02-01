@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalgenius-ui&label=Profile%20views&color=0e75b6&style=flat" alt="digitalgenius-ui" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Milad Tech](https://miladamiri.netlify.app/)
 
