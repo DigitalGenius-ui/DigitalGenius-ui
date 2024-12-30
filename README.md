@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Milad Tech](https://miladamiri.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React JS, Next JS, MERN Staxk**
+- 💬 Ask me about **JavaScript, React JS, Next JS, MERN Stack**
 
 - 📫 How to reach me **miladmarketing282@gmail.com**
 
